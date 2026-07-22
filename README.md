@@ -1,9 +1,9 @@
 # Salary Prediction using Polynomial Regression
 
-**Name:** ARAVAPALLI M ADITYA SRIRAM
-**Registration Number:** 23MIM10130
-**Application Number:** IN26010416
-**Batch Number:** 1A  
+**Name:** ARAVAPALLI M ADITYA SRIRAM\
+**Registration Number:** 23MIM10130\
+**Application Number:** IN26010416\
+**Batch Number:** 1A  \
 **Email:** aravapalli.23mim10130@vitbhopal.ac.in
 
 ## Objective
