@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# VSCode settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Data files — do NOT commit dataset CSVs
+*.csv
+Position_Salaries.csv
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
